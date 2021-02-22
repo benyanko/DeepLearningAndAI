@@ -4,8 +4,10 @@
 * [Description](#description)
 
 ## General info
-This project implement Movie library management platform RESTful API using Flask-RESTful, Microservice Architecture, SQLAlchemy, Docker, Gunicorn and JWT. A simple user can browse the movie library and get information about each movie while an admin user gets permission to manage the movie library when he can add edit and delete movies and categories.
+A collection of Deep Learning And AI projects using Tensorflow, numpy, pandas, matplotlib, sklearn.metrics.
 
 ## Description
 Description for each project:
+
+* Handwritten Digits Classification using ANN - Take an input image (28x28 pixels) of a handwritten single digit (0–9) and classify the image as the appropriate digit.
 
