@@ -4,7 +4,7 @@
 * [Description](#description)
 
 ## General info
-A collection of Deep Learning And AI projects using Tensorflow, numpy, pandas, matplotlib, sklearn.metrics.
+A collection of Deep Learning And AI projects using Tensorflow, Keras, numpy, pandas, matplotlib, sklearn.metrics.
 
 ## Description
 Description for each project:
