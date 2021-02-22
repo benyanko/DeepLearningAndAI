@@ -10,4 +10,5 @@ A collection of Deep Learning And AI projects using Tensorflow, Keras, numpy, pa
 Description for each project:
 
 * ANN_MNIST - Handwritten Digits Classification using ANN, Take an input image (28x28 pixels) of a handwritten single digit (0–9) and classify the image as the appropriate digit.
+* CNN_Fashion_MNIST - Fashion Classification using CNN, Take an input image (28x28 pixels) of a fashion item and classify fashion images and categories.
 
